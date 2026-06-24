@@ -1,5 +1,5 @@
 // Change this URL every time you restart your Colab notebook
-const BASE_URL = "https://thrive-cyclist-endpoint.ngrok-free.dev";
+const BASE_URL = "https://thrive-cyclist-endpoint.ngrok-free.dev ";
 
 export const api = {
   async uploadFile(file) {
